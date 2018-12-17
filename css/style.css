@@ -139,3 +139,59 @@ p{font-size: 1em; color: #777;}
 .onde-estamos i{
     margin-right: 5px;
 }
+/* NEWSLETTER */
+.newsletter{
+    width: 100%;
+    display: inline-block;
+    background-color: #111;
+    padding: 18px 8%;
+}
+
+.newsletter h3{
+    font-size: 1.8em; 
+    color: #fff;
+    text-align: center;
+}
+.newsletter p{
+    font-size: 1.2em;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 15px;
+}
+.newsletter form{
+    width: 100%;
+    float: left;
+    margin-top: 10px;
+}
+.newsletter form input{
+    width: 40%;
+    margin-right: 1%;
+    padding: 15px 10px;
+    float: left;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    color: #fff;
+    background-color: initial;
+}
+.newsletter button{
+    width: 18%;
+    background-color: #fff;
+    padding: 15px 10px;
+    border-radius: 5px;
+    float: right;
+    cursor: pointer;
+}
+/* RODAPÉ */
+.rodape{
+    width: 100%;
+    float: left;
+    background-color: #333;
+    padding: 20px 8%;
+    text-align: center;
+}
+.rodape p, a{
+    color: #00d9ff;
+}
+.rodape span{
+    color: #f02435;
+}
